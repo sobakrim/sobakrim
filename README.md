@@ -1,6 +1,6 @@
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0226--9057-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0226-9057)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0O_mXAwAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Said_Obakrim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/said-obakrim-470740152/)
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0003-0226-9057&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0003-0226-9057)
+[![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=0O_mXAwAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/said-obakrim-470740152/)
 
 
 ## Climate Data Science · Geospatial Statistics · Environmental Modeling 
