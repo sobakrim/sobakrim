@@ -14,4 +14,4 @@ I develop methods and software at the intersection of:
 - geospatial and Earth observation data
 
 ## Contact
-📫 **Email:** [saidobak@gmail.com](mailto:saidobak@gmail.com)
+**Email:** [saidobak@gmail.com](mailto:saidobak@gmail.com)
